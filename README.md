@@ -45,7 +45,7 @@ We are actively developing AUDDT. See below for the latest updates.
 ## Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/MUSAELab/AUDDT.git](https://github.com/MUSAELab/AUDDT.git)
+    git clone https://github.com/MUSAELab/AUDDT.git
     cd AUDDT
     ```
 
